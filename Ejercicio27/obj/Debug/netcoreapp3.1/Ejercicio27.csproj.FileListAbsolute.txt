@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\bin\Debug\netcoreapp3.1\Ejercicio27.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\Ejercicio27\obj\Debug\netcoreapp3.1\Ejercicio27.genruntimeconfig.cache

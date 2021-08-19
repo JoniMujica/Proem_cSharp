@@ -1,0 +1,6 @@
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\bin\Debug\TP1_INTEGRADOR_P3_.exe.config
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\bin\Debug\TP1_INTEGRADOR_P3_.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\bin\Debug\TP1_INTEGRADOR_P3_.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\obj\Debug\TP1_INTEGRADOR_P3_.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\obj\Debug\TP1_INTEGRADOR_P3_.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP1_INTEGRADOR_P3_\obj\Debug\TP1_INTEGRADOR_P3_.pdb

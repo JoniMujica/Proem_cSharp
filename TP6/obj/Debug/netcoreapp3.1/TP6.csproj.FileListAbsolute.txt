@@ -1,0 +1,25 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache

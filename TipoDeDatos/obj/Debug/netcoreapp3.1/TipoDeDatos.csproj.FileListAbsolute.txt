@@ -1,0 +1,13 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\bin\Debug\netcoreapp3.1\TipoDeDatos.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.genruntimeconfig.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TipoDeDatos\obj\Debug\netcoreapp3.1\TipoDeDatos.csproj.AssemblyReference.cache

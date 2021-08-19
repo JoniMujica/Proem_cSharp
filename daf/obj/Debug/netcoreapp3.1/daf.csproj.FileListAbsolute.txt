@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\bin\Debug\netcoreapp3.1\daf.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\daf\obj\Debug\netcoreapp3.1\daf.genruntimeconfig.cache

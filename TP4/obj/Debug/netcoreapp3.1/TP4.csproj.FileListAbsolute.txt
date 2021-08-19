@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\bin\Debug\netcoreapp3.1\TP4.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\TP4\obj\Debug\netcoreapp3.1\TP4.genruntimeconfig.cache

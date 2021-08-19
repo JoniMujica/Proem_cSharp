@@ -1,0 +1,12 @@
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.exe
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.deps.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.runtimeconfig.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.runtimeconfig.dev.json
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\bin\Debug\netcoreapp3.1\ejercicio38.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.AssemblyInfoInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.AssemblyInfo.cs
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.csproj.CoreCompileInputs.cache
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.dll
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.pdb
+C:\Users\jonim\Documents\CAPACITACION PROEM\Clase1\ejercicio38\obj\Debug\netcoreapp3.1\ejercicio38.genruntimeconfig.cache

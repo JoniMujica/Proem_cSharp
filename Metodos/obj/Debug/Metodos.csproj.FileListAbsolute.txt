@@ -1,0 +1,7 @@
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\bin\Debug\Metodos.exe.config
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\bin\Debug\Metodos.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\bin\Debug\Metodos.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\obj\Debug\Metodos.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\Metodos\obj\Debug\Metodos.pdb
