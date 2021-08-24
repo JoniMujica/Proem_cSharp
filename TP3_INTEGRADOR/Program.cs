@@ -85,6 +85,7 @@ namespace TP3_INTEGRADOR
                 if (i % x == 0)
                 {
                     c++;
+                    Console.WriteLine("{0} es divisible por {1}", i , x);
                 }
             }
             return c;
@@ -92,10 +93,12 @@ namespace TP3_INTEGRADOR
 
         static bool EsPrimo(int x)
         {
-            if (x <= 1) return false;
+            if (x <= 1) 
+                return false; //Si es X<=1 , no es primo
+
             for (int i = 2; i < x; i++)
             {
-                if (x % i == 0)
+                if (x % i == 0) //evalua los divisores de X, desde 2 hasta X-1
                 {
                     return false;
                 }

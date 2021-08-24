@@ -85,7 +85,7 @@ namespace TP2_INTEGRADOR
             {
                 res = cant * precio - cant * precio * 0.10;
             }
-            else if (cant == 3 && op == 1)
+            else if (cant == 3 && op == 2)
             {
                 res = cant * precio - cant * precio * 0.05;
             }
