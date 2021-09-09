@@ -1,0 +1,7 @@
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\bin\Debug\TP7_INTEGRADOR.exe.config
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\bin\Debug\TP7_INTEGRADOR.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\bin\Debug\TP7_INTEGRADOR.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\obj\Debug\TP7_INTEGRADOR.csproj.AssemblyReference.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\obj\Debug\TP7_INTEGRADOR.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\obj\Debug\TP7_INTEGRADOR.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\Clase1\TP7_INTEGRADOR\obj\Debug\TP7_INTEGRADOR.pdb
